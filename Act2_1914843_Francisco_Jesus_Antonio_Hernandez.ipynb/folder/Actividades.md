@@ -24,7 +24,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/Fjesus09/IAyRN/blob/Actividades/Act2_1914843_Francisco_Jesus_Antonio_Hernandez.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Fjesus09/IAyRN/blob/Main/Act2_1914843_Francisco_Jesus_Antonio_Hernandez.ipynb/folder/Actividades.md\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
